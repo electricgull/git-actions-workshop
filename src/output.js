@@ -1,5 +1,5 @@
 const outputBob = `Bob`;
-const outputSue = `Sally`;
+const outputSue = `Sue`;
 
 module.exports = {
     outputBob,
